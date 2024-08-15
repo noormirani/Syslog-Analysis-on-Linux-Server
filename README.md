@@ -119,4 +119,4 @@ An understanding of the types of authentication events logged in the authenticat
 *Expected Outcome*:  
 A summary of log data, including the number of login attempts per IP address, successful logins per user, and the most common types of syslog messages.
 
-By completing these exercises, students will gain practical experience in accessing, filtering, and analyzing syslog files on Linux systems—skills that are crucial for system troubleshooting and security monitoring.
+By completing these tasks, we gained practical experience in accessing, filtering, and analyzing syslog files on Linux systems—skills that are crucial for system troubleshooting and security monitoring.
